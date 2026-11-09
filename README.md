@@ -6,6 +6,8 @@
 [![Components](https://img.shields.io/badge/Components-Cowrie%20%7C%20Fail2Ban-orange)](#components)
 [![Scope](https://img.shields.io/badge/Scope-Lab%20Only-green)](#responsible-use)
 
+![Project architecture](images/architecture.svg)
+
 ## Project overview
 
 This repository is organized around a defensive Linux server exercise combining SSH hardening, a Cowrie SSH honeypot, Fail2Ban, authentication-log review, and a project report. The stated goal is to observe SSH brute-force activity, inspect logs, and automatically block abusive sources.
